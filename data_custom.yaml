@@ -1,0 +1,6 @@
+train: C:\Users\triwa\deteksiAPD\train
+val: C:\Users\triwa\deteksiAPD\val
+
+nc: 3
+
+names: ["helm safety", "kacamata safety", "rompi reflector"]
